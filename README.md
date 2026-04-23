@@ -1,3 +1,3 @@
-# spons
+## Sponsored
 
-sample only
+sample only yes
